@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V.
 
-You can use the [editor on GitHub](https://github.com/khulumni/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Herzlich Willkommen auf der Website des Vereins "Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Vereinszweck
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Zweck des Vereins ist es, die Arbeit der Fachschaft ideell, finanziell und sachlich zu unterstützen.
+Um den Zweck des Vereins erfüllen zu können, soll der Verein Mittel einwerben und verwalten.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Satzung
 
-**Bold** and _Italic_ and `Code` text
+Die Satzung findet ist auf Github zu finden https://github.com/khulumni/khulumni_e.v._satzung/blob/master/satzung.md
 
-[Link](url) and ![Image](src)
+
+
+
+## Impressum
+
+Diese Webseite und alle weitere Angebote unter der Domain khulumni.segmentum.solar werden betrieben vom Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V.. Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V. ist im Vereinsregister Bamberg unter der Vereinsregisternummer VR 200900 eingetragen.
+
+### Vereinsinformationen
+
+```
+1. Vorsitzender: Michael Reisbeck
+2. Vorsitzender: Jan-Phillip Wriede
+Kassenwart:      Michael Groh
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### E-Mail
 
-### Jekyll Themes
+```
+khulumni A@T segmentum.solar
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khulumni/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Anschrift
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+Khulumni e.V.
+Markusplatz 3
+96047 Bamberg
+```
+
+### Steuernummer
+
+```
+Finanzamt Bamberg Steuernummer 207/109/60640
+```
+
+### Spendenkonto
+
+Nachfolgend findet ihr unser Vereinskonto.
+
+```
+Khulumni e.V.
+DE92 7705 0000 0303 0333 02
+BYLADEM1SKB
+Sparkasse Bamberg
+
+```
+
+### Disclaimer
+
+Inhalte (Text, Bilder, Dateien, fremdeingebundene Inhalte und Links auf fremde Webangebote) im Blog, im Wiki und im Archiv der Mailinglisten können nach Anmeldung durch jedermann frei erstellt oder verändert werden und stellen eine persönliche Meinung der jeweiligen Autoren dar. Eine Vorabprüfung der Inhalte vor Veröffentlichung (redaktionelle Freischaltung) findet nicht statt. Rechtlich bedenkliche (z.B. Urheberrecht, jugendgefährdende Inhalte) werden nach schriftlicher Aufforderung an den Betreiber nach Prüfung gelöscht oder verändert werden.
