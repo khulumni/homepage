@@ -20,7 +20,7 @@ Die Satzung findet ist auf GitHub zu finden https://github.com/khulumni/khulumni
 
 ## Impressum
 
-Diese Webseite und alle weitere Angebote unter der Domain khulumni.segmentum.solar werden betrieben vom Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V.. Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V. ist im Vereinsregister Bamberg unter der Vereinsregisternummer VR 200900 eingetragen.
+Diese Webseite und alle weitere Angebote unter der Domain khulumni.de werden betrieben vom Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V.. Khulumni - Alumni- und Förderverein der Fachschaftsvertretung Humanwissenschaften Bamberg e.V. ist im Vereinsregister Bamberg unter der Vereinsregisternummer VR 200900 eingetragen.
 
 ### Vereinsinformationen
 
