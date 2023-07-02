@@ -13,7 +13,7 @@ Um den Zweck des Vereins erfüllen zu können, soll der Verein Mittel einwerben 
 
 ## Satzung
 
-Die Satzung findet ist auf Github zu finden https://github.com/khulumni/khulumni_e.v._satzung/blob/master/satzung.md
+Die Satzung findet ist auf GitHub zu finden https://github.com/khulumni/khulumni_e.v._satzung/blob/master/satzung.md
 
 
 
