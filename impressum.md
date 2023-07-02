@@ -14,7 +14,7 @@ Kassenwart:      Michael Groh
 ## E-Mail
 
 ```
-khulumni A@T segmentum.solar
+vorstand[at]khulumni.org
 ```
 
 
