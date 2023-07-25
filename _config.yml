@@ -1,1 +1,7 @@
-theme: jekyll-theme-architect
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Khulumni e.V.
+description: Alumni- und Förderverein der Fachschaftsvertretung der Fachschaft Humanwissenschaften der Otto-Friedrich-Universität Bamberg
+show_downloads: "false"
