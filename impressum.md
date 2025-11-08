@@ -11,13 +11,16 @@ Der Khulumni e.V ist im Vereinsregister Bamberg unter der Vereinsregisternummer 
 
 ## Vereinsinformationen
 
-|                 |                         | 
-| --------------- | ----------------------- |
-| 1. Vorsitzender | Raik Pawlowsky          |
-| 2. Vorsitzender | Elisa Aranda Fehrenbach |
-| Schriftführer   | Jan-David Freund        |
-| Kassenwart      | Michael Groh            |
 
+Der Vorstand des Vereins besteht aus:
+
+``` 
+dem Vorsitzenden                      Raik Pawlowsky
+der stellvertretenden Vorsitzenden    Elisa Aranda Fehrenbach
+dem Schatzmeister                     Michael Groh
+dem Schriftführer                     Jan-David Freund
+den Entsandten der Fachschaft   
+```
 
 ## E-Mail
 
