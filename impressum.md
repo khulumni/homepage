@@ -6,8 +6,9 @@ Der Khulumni e.V ist im Vereinsregister Bamberg unter der Vereinsregisternummer 
 ## Vereinsinformationen
 
 ```
-1. Vorsitzender: Michael Reisbeck
-2. Vorsitzender: Jan-Phillip Wriede
+1. Vorsitzender: Raik Pawlowsky
+2. Vorsitzender: Elisa Aranda Fehrenbach
+Schriftführer: Jan-David Freund
 Kassenwart:      Michael Groh
 ```
 
@@ -26,12 +27,6 @@ Markusplatz 3
 96047 Bamberg
 ```
 
-## Steuernummer
-
-```
-Finanzamt Bamberg Steuernummer 207/109/60640
-```
-
 ## Spendenkonto
 
 Nachfolgend findet ihr unser Vereinskonto.
@@ -41,8 +36,14 @@ Khulumni e.V.
 DE92 7705 0000 0303 0333 02
 BYLADEM1SKB
 Sparkasse Bamberg
+```
+
+## Steuernummer
 
 ```
+Finanzamt Bamberg Steuernummer 207/109/60640
+```
+
 
 ## Disclaimer
 
