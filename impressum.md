@@ -1,3 +1,9 @@
+---
+layout: home
+title: Impressum
+nav_order: 1
+---
+
 # Impressum
 
 Diese Webseite und alle weitere Angebote unter der Domain khulumni.de werden betrieben vom Khulumni e.V.. 

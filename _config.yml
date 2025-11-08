@@ -1,7 +1,19 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
 title: Khulumni e.V.
 description: Alumni- und Förderverein der Fachschaftsvertretung der Fachschaft Humanwissenschaften der Otto-Friedrich-Universität Bamberg
-show_downloads: "false"
+show_downloads: false
+
+# Just the Docs Konfiguration
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "Fachschaft HuWi":
+    - "https://www.uni-bamberg.de/huwi/personen-und-einrichtungen/fachschaft-huwi/"
+
+# Logo Konfiguration
+logo: "/assets/logo.png"
+

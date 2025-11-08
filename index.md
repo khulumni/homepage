@@ -1,3 +1,9 @@
+---
+layout: home
+title: Khulumni e.V.
+nav_order: 1
+---
+
 # Khulumni e.V.
 
 Herzlich Willkommen auf der Website des Vereins "Khulumni e.V."  der Alumni- und Förderverein der [Fachschaftsvertretung der Fachschaft Humanwissenschaften](https://www.uni-bamberg.de/huwi/personen-und-einrichtungen/fachschaft-huwi/) der [Otto-Friedrich-Universität Bamberg](https://www.uni-bamberg.de/)
