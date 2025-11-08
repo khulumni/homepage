@@ -17,7 +17,7 @@ Um den Zweck des Vereins erfüllen zu können, soll der Verein Mittel einwerben 
 
 
 
-## Satzung, Whalordnung und Beitragsordnung
+## Satzung, Wahlordnung und Beitragsordnung
 
 Die aktuelle Satzung ist auf GitHub zu finden: [Satzung, Wahlordnung und Beitragsordnung](https://github.com/khulumni/khulumni_e.v._satzung)
 
