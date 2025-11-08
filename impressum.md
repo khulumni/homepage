@@ -6,10 +6,9 @@ nav_order: 99
 
 # Impressum
 
-Diese Webseite und alle weitere Angebote unter der Domain khulumni.de werden betrieben vom Khulumni e.V.. 
-Der Khulumni e.V ist im Vereinsregister Bamberg unter der Vereinsregisternummer VR 200900 eingetragen.
+Diese Webseite und alle weitere Angebote unter der Domain khulumni.org und khulumni.de werden betrieben vom Khulumni e.V.. 
 
-## Vereinsinformationen
+## Vorstand
 
 
 Der Vorstand des Vereins besteht aus:
@@ -39,13 +38,19 @@ Markusplatz 3
 
 ## Spendenkonto
 
-Nachfolgend findet ihr unser Vereinskonto.
-
 ```
 Khulumni e.V.
 DE92 7705 0000 0303 0333 02
 BYLADEM1SKB
 Sparkasse Bamberg
+```
+
+## Rechtsform und Registereintrag 
+
+Der Khulumni e.V ist ein im Vereinsregister Bamberg eingetragener Verein.
+
+```
+VR 200900, Bamberg
 ```
 
 ## Steuernummer
