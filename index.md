@@ -26,30 +26,14 @@ Die aktuelle Satzung ist auf GitHub zu finden: [Satzung, Wahlordnung und Beitrag
 ## Spenden
 
 
-### Überweisung
-
-```
-Khulumni e.V.
-DE92 7705 0000 0303 0333 02
-BYLADEM1SKB
-Sparkasse Bamberg
-Verwendungszweck: Spende
-```
-
-![Spenden mit Banküberweisung](./assets/Sparkasse-QR-Code-Verein-128.png)
-
-### Paypal
-
-[Spenden mit PayPal](https://www.paypal.com/donate/?hosted_button_id=9CKT78Y4G2UGE)
-
-![Spenden mit PayPal QR Code](./assets/PayPal-QR-Code-Verein-128.png)
-
-Bei Paypal fallen leider Gebühren an.
+| **Möglichkeit** | **Details**                                                                                                                          | **QR-Code**                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Überweisung     | Khulumni e.V. DE92 7705 0000 0303 0333 02 BYLADEM1SKB Sparkasse Bamberg                                                              | ![Spenden mit Banküberweisung](./assets/Sparkasse-QR-Code-Verein-128.png) |
+| Paypal          | [Spenden mit PayPal](https://www.paypal.com/donate/?hosted_button_id=9CKT78Y4G2UGE)                                                  | ![Spenden mit PayPal QR Code](./assets/PayPal-QR-Code-Verein-128.png)     |
+| Bar             | Gerne können Spenden auch in bar getätigt werden. Hier am besten den Schatzmeister auf einer der Vereiensveranstaltungen ansprechen. |                                                                           |
 
 
-### Bar
 
-Gerne können Spenden auch in bar getätigt werden. Hier am besten den Schatzmeister auf einer der Vereiensveranstaltungen ansprechen.
 
 ## Kontakt und Impressum
 
