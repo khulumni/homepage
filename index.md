@@ -12,7 +12,7 @@ Herzlich Willkommen auf der Website des Vereins "Khulumni e.V."  der Alumni- und
 ## Vereinszweck
 
 
-Zweck des Vereins ist es, die Arbeit der Fachschaft ideell, finanziell und sachlich zu unterstützen.
+Zweck des Vereins ist es, die Arbeit der Fachschaftsvertretung ideell, finanziell und sachlich zu unterstützen.
 Um den Zweck des Vereins erfüllen zu können, soll der Verein Mittel einwerben und verwalten.
 
 
