@@ -27,10 +27,10 @@ Die aktuelle Satzung ist auf GitHub zu finden: [Satzung, Wahlordnung und Beitrag
 
 
 | **Möglichkeit** | **Details**                                                                                                                          | **QR-Code**                                                               |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| Überweisung     | Khulumni e.V.<br>DE92 7705 0000 0303 0333 02<br>BYLADEM1SKB<br>Sparkasse Bamberg                                                     | ![Spenden mit Banküberweisung](./assets/Sparkasse-QR-Code-Verein-256.png) |
-| Paypal          | [Spenden mit PayPal](https://www.paypal.com/donate/?hosted_button_id=9CKT78Y4G2UGE)<br>Bei Paypal fallen leider Gebühren an.         | ![Spenden mit PayPal QR Code](./assets/PayPal-QR-Code-Verein-256.png)     |
-| Bar             | Gerne können Spenden auch in bar getätigt werden. Hier am besten den Schatzmeister auf einer der Vereiensveranstaltungen ansprechen. |                                                                           |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Überweisung     | Khulumni e.V.<br>DE92 7705 0000 0303 0333 02<br>BYLADEM1SKB<br>Sparkasse Bamberg                                              | ![Spenden mit Banküberweisung](./assets/Sparkasse-QR-Code-Verein-256.png) |
+| Paypal          | [Spenden mit PayPal](https://www.paypal.com/donate/?hosted_button_id=9CKT78Y4G2UGE)<br>Bei Paypal fallen leider Gebühren an.  | ![Spenden mit PayPal QR Code](./assets/PayPal-QR-Code-Verein-256.png)     |
+| Bar             | Lieber bar spenden? Kein Problem – einfach unseren Schatzmeister bei einer unserer Vereinsveranstaltungen ansprechen. | |
 
 
 
