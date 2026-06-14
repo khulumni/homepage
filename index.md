@@ -36,6 +36,7 @@ Sparkasse Bamberg
 Verwendungszweck: Spende
 ```
 
+![Spenden mit Banküberweisung](./assets/Sparkasse-QR-Code-Verein-128.png)
 
 ### Paypal
 
